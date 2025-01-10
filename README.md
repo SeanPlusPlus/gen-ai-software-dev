@@ -10,8 +10,8 @@ This guide explains how to set up the project, create a virtual environment, ins
 
 ```bash
 # Clone the repository and navigate to the project directory
-git clone <repository-url>
-cd <repository-name>
+git clone git@github.com:SeanPlusPlus/gen-ai-software-dev.git
+cd gen-ai-software-dev 
 
 # Create a virtual environment
 python -m venv venv
